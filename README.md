@@ -1,7 +1,7 @@
 # projekat_auto
 
-#Uvod
+# Uvod
 Tema projekta - punjac za akumulator
 
-##Periferije
+## Periferije
 Led bar , 7seg displej
